@@ -4,7 +4,7 @@ object App
 {
   def main(args: Array[String]): Unit =
   {
-    val nd = NODATA;
+    val nd = NODATA
 
     println(nd)
   }
